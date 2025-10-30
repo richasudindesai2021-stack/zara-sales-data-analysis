@@ -8,9 +8,11 @@ Performed an in-depth analysis of Zara’s sales dataset using Python and Pandas
 - Computed summary statistics including mean, median, and standard deviation for each product category.  
 - Created visualizations for **sales distribution**, **material performance**, and **category-wise sales** using Matplotlib and Seaborn.  
 - Derived insights to support inventory and pricing optimization strategies.
+- Built a Random Forest model to predict sales performance and validate material-wise insights.
+
 
 ## Tools & Libraries
-Python, Pandas, NumPy, Matplotlib, Seaborn
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Dataset
 This dataset, called Zara Sales for EDA, was created by combining several public fashion datasets from GitHub and Kaggle.
